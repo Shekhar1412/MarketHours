@@ -1,0 +1,6 @@
+@MarketHours_HostAddress = http://localhost:5207
+
+GET {{MarketHours_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
